@@ -1,8 +1,8 @@
 Vitrex PHP Cache
 ================
-
+[![Version](https://img.shields.io/badge/Version-1.0.0-green?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/License-MIT-yellowgreen?style=for-the-badge)]()
-[![Donate to this project using PayPal](https://img.shields.io/badge/PayPal-Donate-green?style=for-the-badge)](https://www.paypal.me/TKivits )
+[![Donate to this project using PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=for-the-badge)](https://www.paypal.me/TKivits )
 
 OVERVIEW
 --------
@@ -55,7 +55,7 @@ if (($cacheData = $Cache->load('Foo')) === false) {
 		'LifeTime' => Adapter\Adapter::LIFE_TIME_1_WEEK,
 		'Foo'      => 'Bar'
 	];
-	$Cache->save('Foo', $cacheData);
+	$Cache->save('Foo', $cacheData, '1 WEEK');
 }
 var_dump($cacheData);
 ?>
@@ -71,3 +71,13 @@ $Cache->delete('Foo');
 ```php
 $Cache->clearAll();
 ```
+
+SUPPORT
+-------
+### Support
+
+For support please visit: [Github](https://github.com/VitrexPHP/Vitrex-PHP-Cache) | [Issues](https://github.com/VitrexPHP/Vitrex-PHP-Cache/issues)
+
+For donations please visit: [PayPal](https://paypal.me/TommyK)
+
+For professional support please contact [by e-mail](tommykivits@gmail.com).
