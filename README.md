@@ -23,7 +23,7 @@ Download the latest version from here.
 
 Install `Vitrex PHP Cache` using Composer.
 
-    Coming Soon!
+    composer require vitrexphp/cache
 
 BASIC USAGE
 -----------
