@@ -1,0 +1,24 @@
+{
+  "name": "vitrexphp/cache",
+  "type": "library",
+  "description": "Multiple Cache Component for PHP",
+  "keywords": [
+    "cache"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tommy Kivits",
+      "email": "tommykivits@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Vitrex\\Cache\\": "src/"
+    }
+  }
+}
