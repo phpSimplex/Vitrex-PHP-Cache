@@ -16,6 +16,7 @@
   "require": {
     "php": "^7.4"
   },
+  "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
       "Vitrex\\Cache\\": "src/"
