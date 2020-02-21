@@ -1,6 +1,6 @@
 Vitrex PHP Cache
 ================
-[![Version](https://img.shields.io/badge/Version-1.0.0-green?style=for-the-badge)]()
+[![Version](https://img.shields.io/badge/Version-1.0.1-green?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/License-MIT-yellowgreen?style=for-the-badge)]()
 [![Donate to this project using PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=for-the-badge)](https://www.paypal.me/TKivits )
 
@@ -78,6 +78,6 @@ SUPPORT
 
 For support please visit: [Github](https://github.com/VitrexPHP/Vitrex-PHP-Cache) | [Issues](https://github.com/VitrexPHP/Vitrex-PHP-Cache/issues)
 
-For donations please visit: [PayPal](https://paypal.me/TommyK)
+For donations please visit: [PayPal](https://paypal.me/TKivits)
 
-For professional support please contact [by e-mail](tommykivits@gmail.com).
+For professional support please contact [by e-mail](mailto:tommykivits@gmail.com).
