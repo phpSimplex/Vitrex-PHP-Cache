@@ -62,6 +62,11 @@ abstract class Adapter
 		return $DateTime->format('d M Y H:i:s');
 	}
 	
+	protected function isHashed(string $id): bool
+	{
+		return preg_match('/^[0-9a-f]{40}$/i', $id) !== false;
+	}
+	
 	/**
 	 * Hash the cache id.
 	 *
