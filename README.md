@@ -74,10 +74,6 @@ $Cache->clearAll();
 
 SUPPORT
 -------
-### Support
-
-For support please visit: [Github](https://github.com/VitrexPHP/Vitrex-PHP-Cache) | [Issues](https://github.com/VitrexPHP/Vitrex-PHP-Cache/issues)
-
+For support please visit: [Github](https://github.com/phpSimpex/Vitrex-PHP-Cache) | [Issues](https://github.com/phpSimplex/Vitrex-PHP-Cache/issues)
 For donations please visit: [PayPal](https://paypal.me/TKivits)
-
 For professional support please contact [by e-mail](mailto:tommykivits@gmail.com).
